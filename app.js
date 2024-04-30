@@ -21,7 +21,6 @@ function PageTransitions (){
 allSections.forEach(function(section) {
     section.addEventListener('click', function(e) {
         const id = e.target.dataset.id;
-        console.log(e.target.dataset.id);
         if(id){
             // Remove selected from the other button
             sectBtns.forEach((btn) => {
