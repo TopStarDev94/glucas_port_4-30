@@ -48,3 +48,4 @@ themeBtn.addEventListener('click', () => {
 }
 
 PageTransitions();
+

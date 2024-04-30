@@ -226,6 +226,7 @@ section {
 .header-content .right-header p {
   margin: 1.5rem;
   line-height: 2rem;
+  text-transform: uppercase;
 }
 
 /*About*/
